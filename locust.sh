@@ -1,0 +1,1 @@
+locust -f locust_app.py --host=http://api.promr-group.pp.ua/
